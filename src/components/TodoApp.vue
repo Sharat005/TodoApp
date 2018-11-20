@@ -40,7 +40,7 @@ import info from '@/components/info.vue'
 import { mapState, mapMutations, mapActions } from 'vuex'
 
 export default {
-  name: 'HelloWorld',
+  name: 'TodoApp',
   data() {
     return {
       newTodo: '',
