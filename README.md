@@ -9,4 +9,4 @@ npm install
 ```
 npm run serve
 ```
-![alt text](/home/sharat/Pictures/SS1-Vue.png)
+![alt text](TodoApp/src/SS1-Vue.png)
