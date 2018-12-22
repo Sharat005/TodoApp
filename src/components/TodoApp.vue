@@ -8,7 +8,7 @@
         </form>
       </div>
 
-      <div v-if="!todos.length"> Nothing to do </div>
+      <div v-if="!todos.length"> Nothing to do yaaar</div>
       <div class="content">
         <ul>
           <li v-for="(todo, index) in todos" v-bind:key="index">
